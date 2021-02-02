@@ -1,2 +1,3 @@
 server:
   name: test
+  config: dev
