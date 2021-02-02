@@ -1,3 +1,2 @@
 server:
-  name: dev
-  config: dev
+  name: dev-dev
